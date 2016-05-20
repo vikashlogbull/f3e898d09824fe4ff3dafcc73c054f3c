@@ -588,3 +588,4 @@ $conf['404_fast_html'] = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
 $databases['default']['default'] = array('database' => 'a781ce1fe33a','username' => 'd3d4612f730e','password' => '24150c36dd0d','host' => '54.165.156.253','port' => '','driver' => 'mysql','prefix' => '');
 $databases['default']['default'] = array('database' => 'subsitevsskt0015_evolverinc_tech','username' => '38d66c5cc47a','password' => '56ef44d07d2f','host' => '54.165.156.253','port' => '','driver' => 'mysql','prefix' => '');
 $databases['default']['default'] = array('database' => 'subsitevsskt0015_evolverinc_tech','username' => 'b392e7dbb682','password' => '8404353de44d','host' => '54.165.156.253','port' => '','driver' => 'mysql','prefix' => '');
+$databases['default']['default'] = array('database' => 'subsitevsskt0015_evolverinc_tech','username' => '20a3b68032b8','password' => 'b85c7f607bd9','host' => '52.9.163.137','port' => '','driver' => 'mysql','prefix' => '');
